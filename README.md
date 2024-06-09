@@ -15,13 +15,19 @@ You Only Look Once (YOLO) proposes using an end-to-end neural network that makes
 
 Experimental results show YOLOv8's performance on customized datasets, assessing metrics like mAP, recall, and precision. Precision measures true positive detections among all model detections, recall measures true positives among all actual positives. mAP provides a single score summarizing overall detection performance.
 
+## Result
+
+
+https://github.com/kalpesh027/Violence-Detection-System/assets/102456412/927a16ea-31f3-4370-a22f-c284d2b945e3
+
+
+
 ## Author
 Kalpesh Ghodekar
 [Instagram](https://www.instagram.com/kalpesh__027/)  |  [LinkedIn](https://www.linkedin.com/in/kalpesh-ghodekar/) | [Twitter](https://twitter.com/kalpesh__027)
 
 
 
-https://github.com/kalpesh027/Violence-Detection-System/assets/102456412/a1cae3c7-6d74-4af7-b06d-f772a9a78e00
 
 
 
